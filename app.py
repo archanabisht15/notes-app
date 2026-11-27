@@ -39,7 +39,7 @@ PAGE = """
 <!doctype html>
 <title>My Notes</title>
 <body style="font-family: Arial; max-width: 500px; margin: 40px auto;">
-  <h2>sed -i 's/My Notes App/My Notes App v3/' app.py<h2>
+  <h2>/My Notes App/My Notes App v4<h2>
   <form method="post">
     <input name="text" placeholder="Write a note" style="width:70%; padding:8px;" required>
     <button style="padding:8px;">Add</button>
